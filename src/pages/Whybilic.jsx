@@ -13,7 +13,7 @@ import Navbar from '../components/navbar'
 import CTA from '../components/CTA'
 import Footer from '../components/footer'
 
-import header from '../assets/Header_2.png'
+import header from '../assets/header_2.png'
 
 
 const WhyBilic = () => {
