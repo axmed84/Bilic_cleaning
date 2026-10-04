@@ -20,7 +20,7 @@ import CTA from '../components/CTA'
 import Footer from '../components/footer'
 import AdditionalServices from '../components/AdditionalServices'
 
-import header from '../assets/header_2.png'
+import header from '../assets/Header_2.png'
 
 import residential from '../assets/Living_room.jpg'
 import commercial from '../assets/commercial.jpg'
