@@ -5,7 +5,7 @@ import Navbar from '../components/navbar'
 import Footer from '../components/footer'
 
 import gadgets from '../assets/gadgets.jpg'
-import aboutImage from '../assets/about.png'
+import aboutImage from '../assets/About.png'
 
 const About = () => {
 

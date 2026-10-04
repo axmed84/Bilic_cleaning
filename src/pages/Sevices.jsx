@@ -22,11 +22,11 @@ import AdditionalServices from '../components/AdditionalServices'
 
 import header from '../assets/header_2.png'
 
-import residential from '../assets/living_room.jpg'
+import residential from '../assets/Living_room.jpg'
 import commercial from '../assets/commercial.jpg'
 import malls from '../assets/mall.jpg'
-import healthcare from '../assets/hospital.jpg'
-import specialized from '../assets/cleaning.png'
+import healthcare from '../assets/Hospital.jpg'
+import specialized from '../assets/Cleaning.png'
 
 import services from '../Data/Service'
 
